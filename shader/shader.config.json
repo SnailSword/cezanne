@@ -25,5 +25,14 @@
         "stem": {
             "path": "cartoon-silhouette"
         }
+    },
+    "cartoon-stroke": {
+        "name": "Cartoon with stroke",
+        "apple": {
+            "path": "cartoon-stroke"
+        },
+        "stem": {
+            "path": "cartoon-stroke"
+        }
     }
 }
